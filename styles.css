@@ -1,0 +1,90 @@
+*{
+    margin: 0;padding: 0;
+}
+
+div{
+   margin-left: 14%;
+   width: 75%;
+   justify-content: center;
+    background-color: green;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+
+
+div > h1{
+    margin-left: 40%;
+}
+
+.discrption{
+    margin-top: 10px;
+
+    margin-left: 20%;
+    
+    margin-bottom: 30px;
+
+}
+
+div label{
+    margin-left: 50%;
+   
+    font-size: 20px;
+}
+
+div > input{
+    margin-left: 35%;
+    margin-top:30px;
+    width: 40%;
+    height: 40px;
+    margin-bottom: 10px;
+    border: 2px solid;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+div > button{
+    margin-left: 53%;
+    margin-top: 2px;
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 2px solid;
+    border-radius: 10px;
+    background-color: gray;
+}
+.checkbutton{
+    background-color: gray;
+    margin-top: 12px;
+    margin-bottom: 10px;
+    margin-left: 50%;
+}
+
+table{
+margin-top: 20px;
+
+margin-left: 50px;
+
+border: 2px solid;
+ 
+width: 90%;
+
+height: 15vh;
+
+
+
+margin-bottom: 20px;
+border: 2px solid black;
+
+}
+caption{
+
+    margin-left: 100px;
+}
+.errmsg{
+   margin-left: 45%;
+}
+
+
+tr{
+   border: 2px solid;
+background-color: rgb(178, 200, 220);
+} 
